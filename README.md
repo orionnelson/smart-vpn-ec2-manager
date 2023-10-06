@@ -1,5 +1,5 @@
  Smart VPN EC2 Manager
-
+![What it Does](https://or9.ca/images/CloudBridge.png)
 `smart-vpn-ec2-manager` provides an intelligent way to manage the lifecycle of expensive EC2 instances. By monitoring WireGuard VPN connectivity, this Terraform solution ensures that your EC2 instance is only active when needed, thus saving on costs.
 
 ## Features
